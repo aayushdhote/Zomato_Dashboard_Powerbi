@@ -11,8 +11,6 @@ It provides visual insights and answers to key business questions based on resta
   <img src="dashboard.png" alt="Zomato Power BI Dashboard Preview" width="800"/>
 </p>
 
-*(Add your dashboard screenshot above — name it `dashboard.png` and upload it to this repo.)*
-
 ---
 
 ## 📁 Files in This Repository
